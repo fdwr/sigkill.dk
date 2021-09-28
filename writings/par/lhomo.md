@@ -55,7 +55,7 @@ mssp ([0,3,-2] ++ [4,-1,0]) = 5
 
 But if we extend the domain a bit, we can indeed obtain a
 homomorphism.  Instead of computing just the maximum sum, we will
-compute a tuple with four non-negative integer elements:
+compute a tuple with four integer elements:
 
 1. The maximum subarray sum (i.e., the final result we are actually interested in).
 
@@ -64,6 +64,9 @@ compute a tuple with four non-negative integer elements:
 3. The maximum subarray sum ending at the *last* element.
 
 4. The sum of the entire array.
+
+Note that the first three must be non-negative, as a subarray can
+always be empty.
 
 Now define a function `f` that morally computes such a tuple for
 single element subarrays:
