@@ -181,3 +181,5 @@ theorem can inspire us to look for a parallel implementation.
 * *An Introduction to the Theory of Lists* ([pdf](https://www.cs.ox.ac.uk/files/3378/PRG56.pdf)), by Richard S. Bird (1987)
 
 * *The Third Homomorphism Theorem* ([pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.45.2247&rep=rep1&type=pdf)), by Jeremy Gibbons (1995)
+
+* *Parallel Programming, List Homomorphisms and the Maximum Segment Sum Problem* ([pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.3891&rep=rep1&type=pdf)), by Murray Cole (1993)
