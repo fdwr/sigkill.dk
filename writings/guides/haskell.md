@@ -15,3 +15,13 @@ source-repository-package
 ```
 
 The `tag` is the Git commit.
+
+## Ignoring upper bounds
+
+Put this in `cabal.project`:
+
+```
+allow-newer: hashable:ghc-bignum
+```
+
+This lets `hashable` use a newer `ghc-bignum`.
