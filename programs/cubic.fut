@@ -18,22 +18,22 @@
 -- straightforward manner, parameterised by tolerance `eps` and
 -- starting point `x0`:
 
-let newton (eps: f64) (x0: f64) (f: f64 -> f64) (f': f64 -> f64) =
+def newton (eps: f64) (x0: f64) (f: f64 -> f64) (f': f64 -> f64) =
   loop x = x0 while f64.abs(f x) > eps do x - f x / f' x
 
 -- Then we define an evaluation function for cubic functions of the
 -- form *ax³+bx²+cx+d*, as well as the derivative *3ax²+2bx+c*.
 
-let cubic a b c d x : f64 =
+def cubic a b c d x : f64 =
   a*x**3 + b*x**2 + c*x + d
 
-let cubic' a b c _d x : f64 =
+def cubic' a b c _d x : f64 =
   3 * a * x**2 + 2 * b * x + c
 
 -- Now we can put these pieces together and get an iterative solver
 -- for finding a root of a cubic function:
 
-let newton_cubic_root eps x0 a b c d =
+def newton_cubic_root eps x0 a b c d =
   newton eps x0 (cubic a b c d) (cubic' a b c d)
 
 -- Cubic functions always have at least one real root, but may have
@@ -48,7 +48,7 @@ let newton_cubic_root eps x0 a b c d =
 -- The following is the analytical solution.  As above, it finds the
 -- first real root and ignores the others (if they exist).
 
-let cubic_root a b c d : f64 =
+def cubic_root a b c d : f64 =
   let b = b / a
   let c = c / a
   let d = d / a
