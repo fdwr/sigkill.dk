@@ -57,7 +57,7 @@ systems people come up with.
 
 There is also a particularly tricky category of users: people who
 already have some old or defective Haskell setup that they obtained
-for a course or idly experiment and since forgot about.  Debugging
+for a course or idle experiment and since forgot about.  Debugging
 build errors due to interactions with these remnants can be quite
 maddening.
 
