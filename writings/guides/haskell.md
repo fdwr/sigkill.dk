@@ -16,6 +16,14 @@ source-repository-package
 
 The `tag` is the Git commit.
 
+## Making Cabal fetch a dependency from a directory
+
+Add another `packages` stanza to `cabal.project`.  Example:
+
+```
+packages: ../futhark-server-haskell
+```
+
 ## Ignoring upper bounds
 
 Put this in `cabal.project`:
