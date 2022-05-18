@@ -19,7 +19,7 @@ body {
     margin-right: auto;
     max-width: 65em;
     overflow-y: scroll;
-    line-height: 1.4;
+    line-height: 1.4em;
 }
 
 #content {
@@ -36,7 +36,7 @@ h1 {
     font-size: 1em;
 }
 
-h1::before {
+h1:before {
     content: "# ";
 }
 
@@ -45,7 +45,7 @@ h2 {
     font-size: 1em;
 }
 
-h2::before {
+h2:before {
     content: "## ";
 }
 
@@ -54,7 +54,7 @@ h3 {
     font-size: 1em;
 }
 
-h3::before {
+h3:before {
     content: "### ";
 }
 
@@ -199,9 +199,30 @@ a img {
     border: 0px;
 }
 
-li {
-    margin-left: 2%;
+#content li {
+    margin-left: 0;
+    list-style: none;
 }
+
+#content ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Pandoc likes to put paragraphs in list items. */
+#content li > p {
+    display: inline;
+}
+
+#content li:before {
+    content: " * ";
+    white-space: pre;
+}
+
+#content li:not(:last-child) {
+   margin-bottom: 1.4em;
+}
+
 
 h1>a, h2>a, h3>a {
     color: var(--text);

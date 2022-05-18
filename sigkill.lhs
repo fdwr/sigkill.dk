@@ -283,8 +283,8 @@ Adding the hacks to a page is now just loading everything with version
 > addHacks :: Item String -> Compiler (Item String)
 > addHacks item = do
 >   hacks <- loadAll (fromVersion $ Just "hacks")
->   return item { itemBody = itemBody item <> renderHtml (H.ul $ mapM_ asLi hacks) }
->   where asLi = H.li . preEscapedString . itemBody
+>   return item { itemBody = itemBody item <> renderHtml (mapM_ hackHtml hacks) }
+>   where hackHtml = preEscapedString .  itemBody
 
 Extracting update times
 ---
