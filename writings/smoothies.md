@@ -11,7 +11,17 @@ until you like the consistency.  A minute is likely sufficient.
 
 ## Good
 
-TBA
+### Green banana and vanilla
+
+* Avocado.
+
+* Banana.
+
+* Plenty of spinach.
+
+* Vanilla soy milk.
+
+Tasty, but only mildly sweet.
 
 ## Decent
 
