@@ -21,7 +21,7 @@ until you like the consistency.  A minute is likely sufficient.
 
 * Vanilla soy milk.
 
-Tasty, but only mildly sweet.
+Tasty and not very sweet.
 
 ## Decent
 
@@ -56,7 +56,7 @@ Tastes a bit like red berry juice, but with the spiciness of kiwis.
 ### Orange with peel
 
 * A large un-peeled orange.  Make sure to wash it first, as they are
-  often surface treated with convervation chemicals.
+  often surface treated with conservation chemicals.
 
 * That's it.
 

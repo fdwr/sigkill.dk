@@ -238,7 +238,7 @@ pre {
     background-color: var(--prebg);
     margin-top: 0;
     margin-bottom: 0;
-    margin-left: 3ex;
+    margin-left: 2em;
 }
 
 code {
