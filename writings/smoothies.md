@@ -23,6 +23,16 @@ until you like the consistency.  A minute is likely sufficient.
 
 Tasty and not very sweet.
 
+### Exotic dried fruit and also banana
+
+* Dried papaya and pineapple (I used an "exotic fruit mix" from the supermarket).
+
+* Vanilla soy milk.
+
+* A banana.
+
+Extremely sweet.
+
 ## Decent
 
 ### Vanilla soy milk orange
