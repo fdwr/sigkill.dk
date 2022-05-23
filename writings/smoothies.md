@@ -21,7 +21,8 @@ until you like the consistency.  A minute is likely sufficient.
 
 * Vanilla soy milk.
 
-Tasty and not very sweet.
+Use maple syrup to adjust the sweetness to preference, but is quite
+tasty even when not very sweet.
 
 ### Exotic dried fruit and also banana
 
@@ -34,6 +35,18 @@ Tasty and not very sweet.
 Extremely sweet.
 
 ## Decent
+
+### Papaya and banana
+
+* Half a papaya.
+
+* A banana.
+
+* Vanilla soy milk.
+
+* Ice cubes.
+
+Not as sweet as expected.  Very fresh.
 
 ### Vanilla soy milk orange
 
@@ -61,7 +74,36 @@ works at a hospital, so I guess she'd know).
 Tastes a bit like red berry juice, but with the spiciness of kiwis.
 *Way* too many seeds.
 
+### Cucumber and spinach
+
+* A couple of Kiwi
+
+* Half a cucumber
+
+* Lots of spinach
+
+* Pineapple juice
+
+Not very sweet, but an acceptable way to ingest lots of vegetables.
+The kiwis help make the taste more interesting.
+
 ## Awful
+
+### Grapefruit spinach
+
+* A peeled grapefruit.
+
+* Two handfuls of spinach.
+
+* Some apple juice.
+
+* A bit of soy milk, just to thin it further.
+
+* Ice cubes.
+
+* A banana.
+
+Much more bitter than I expected.
 
 ### Orange with peel
 
