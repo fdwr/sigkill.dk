@@ -36,6 +36,19 @@ Extremely sweet.
 
 ## Decent
 
+### Papaya, mango, and pineapple juice
+
+* Papaya
+
+* Mango
+
+* Pineapple juice
+
+* Some ice cubes
+
+Make sure you use sufficient ice cubes and/or juice to make it fairly
+liquid.  Not particularly sweet, but decently refreshing.
+
 ### Papaya and banana
 
 * Half a papaya.
@@ -86,6 +99,18 @@ Tastes a bit like red berry juice, but with the spiciness of kiwis.
 
 Not very sweet, but an acceptable way to ingest lots of vegetables.
 The kiwis help make the taste more interesting.
+
+### Grapefruit yogurt
+
+* Grapefruit
+
+* Orange
+
+* Two dollops of Greek yoghurt
+
+* Some maple syrup
+
+Both sweet and bitter.  Probably better without the grapefruit.
 
 ## Awful
 
