@@ -34,6 +34,15 @@ tasty even when not very sweet.
 
 Extremely sweet.
 
+### Rhubarb and strawberries
+
+* Fresh strawberries
+
+* Fresh rhubarb cut into dices
+
+Somewhat tart.  Add maple syrup to add a bit of sweetness if you wish,
+but not too much.  The rhubarb is the point.
+
 ## Decent
 
 ### Papaya, mango, and pineapple juice
