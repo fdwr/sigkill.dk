@@ -13,24 +13,24 @@ until you like the consistency.  A minute is likely sufficient.
 
 ### Green banana and vanilla
 
-* Avocado.
+* Avocado
 
-* Banana.
+* Banana
 
-* Plenty of spinach.
+* Plenty of spinach
 
-* Vanilla soy milk.
+* Vanilla soy milk
 
 Use maple syrup to adjust the sweetness to preference, but is quite
 tasty even when not very sweet.
 
 ### Exotic dried fruit and also banana
 
-* Dried papaya and pineapple (I used an "exotic fruit mix" from the supermarket).
+* Dried papaya and pineapple (I used an "exotic fruit mix" from the supermarket)
 
-* Vanilla soy milk.
+* Vanilla soy milk
 
-* A banana.
+* A banana
 
 Extremely sweet.
 
@@ -44,6 +44,16 @@ Somewhat tart.  Add maple syrup to add a bit of sweetness if you wish,
 but not too much.  The rhubarb is the point.
 
 ## Decent
+
+### Pear, pineapple, almond
+
+* Two pears
+
+* Some frozen pineapple
+
+* Almond milk
+
+A little grainy due to the pears, but the taste is quite fresh.
 
 ### Papaya, mango, and pineapple juice
 
@@ -60,38 +70,38 @@ liquid.  Not particularly sweet, but decently refreshing.
 
 ### Papaya and banana
 
-* Half a papaya.
+* Half a papaya
 
-* A banana.
+* A banana
 
-* Vanilla soy milk.
+* Vanilla soy milk
 
-* Ice cubes.
+* Ice cubes
 
 Not as sweet as expected.  Very fresh.
 
 ### Vanilla soy milk orange
 
-* One peeled large orange or several small ones.
+* One peeled large orange or several small ones
 
-* Vanilla soy milk.
+* Vanilla soy milk
 
-* A generous teaspoon of honey.
+* A generous teaspoon of honey
 
-* Some ice cubes.
+* Some ice cubes
 
 I think it's OK, but my partner says it "tastes like disease" (and she
 works at a hospital, so I guess she'd know).
 
 ### Blackberry, pineapple, kiwi, and passion fruit
 
-* Passion fruits without the rinds.
+* Passion fruits without the rinds
 
-* Some blackberries.
+* Some blackberries
 
-* A couple of peeled kiwis.
+* A couple of peeled kiwis
 
-* Pineapple juice.
+* Pineapple juice
 
 Tastes a bit like red berry juice, but with the spiciness of kiwis.
 *Way* too many seeds.
@@ -125,17 +135,17 @@ Both sweet and bitter.  Probably better without the grapefruit.
 
 ### Grapefruit spinach
 
-* A peeled grapefruit.
+* A peeled grapefruit
 
-* Two handfuls of spinach.
+* Two handfuls of spinach
 
-* Some apple juice.
+* Some apple juice
 
-* A bit of soy milk, just to thin it further.
+* A bit of soy milk, just to thin it further
 
-* Ice cubes.
+* Ice cubes
 
-* A banana.
+* A banana
 
 Much more bitter than I expected.
 

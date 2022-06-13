@@ -23,11 +23,10 @@ checking out.
   are at least partly a parody).  If you followed the link, you'll
   have discovered that the proper Bitreich website is not actually
   accessible over HTTP - instead, you are directed to use Gopher.  I
-  advice using the venerable text mode Gopher client (and browser)
-  [lynx](https://lynx.browser.org/) to explore Gopherspace, with
-  Bitreich as the starting point.  It's a surprisingly pleasant retro
-  experience, and feels a lot more personal and decentralised than the
-  modern web.
+  advice using the text mode Gopher client (and browser) `sacc` to
+  explore Gopherspace, with Bitreich as the starting point.  It's a
+  surprisingly pleasant retro experience, and feels a lot more
+  personal and decentralised than the modern web.
 
 * [Dan Luu](https://danluu.com/) is a programmer and writes
   interesting and very well-researched articles.  [The one on computer
