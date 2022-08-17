@@ -112,3 +112,14 @@ but I'm just listing the idealised flight distance.
   Day 2020](https://sites.google.com/view/nl-fp-day-2020/home).  I
   really wanted to take the train for this one, but I could not find a
   reasonable way.
+
+2022 (2004km)
+-------------
+
+* **Copenhagen** to **Aalborg** and back (2x 223km) to be censor at
+  [AAU](https://www.aau.dk/).  Flying there makes no sense, and I
+  would much rather have taken the train, but I didn't make the
+  arrangements myself.
+
+* **Copenhagen** to **Krakow** and back (2x 779km) to attend [Lambda
+  Days](https://www.lambdadays.org/lambdadays2022).
