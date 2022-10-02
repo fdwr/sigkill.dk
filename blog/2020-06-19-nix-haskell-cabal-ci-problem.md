@@ -51,7 +51,7 @@ does semi-frequently, the path to the C library embedded in the
 `happy` binary will no longer be valid, and `happy` will fail to run.
 
 How did we fix this?  Not elegantly, I'm afraid: we moved `cabal test`
-to another job, specifically one builds without Nix, instead using
+to another job, specifically one buildt without Nix, instead using
 normal Debian packages.  I'd be quite curious to see if anyone has a
 nice solution to this problem.
 
