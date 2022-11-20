@@ -113,7 +113,7 @@ but I'm just listing the idealised flight distance.
   really wanted to take the train for this one, but I could not find a
   reasonable way.
 
-2022 (2004km)
+2022 (18262km)
 -------------
 
 * **Copenhagen** to **Aalborg** and back (2x 223km) to be censor at
@@ -123,3 +123,6 @@ but I'm just listing the idealised flight distance.
 
 * **Copenhagen** to **Krakow** and back (2x 779km) to attend [Lambda
   Days](https://www.lambdadays.org/lambdadays2022).
+
+* **Copenhagen** to **Dallas** and back (2x 8129km) to attend
+  [Supercomputing 22](https://sc22.supercomputing.org/).
