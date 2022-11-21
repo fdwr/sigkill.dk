@@ -18,6 +18,6 @@ It's sort of obvious why it works, which I always like, but I couldn't
 find this trick documented anywhere.  [The
 tutorial](https://docs.github.com/en/actions/creating-actions/creating-a-composite-action)
 suggests creating a release of the action and testing it from another
-repository, which is of course horrible unergonomic.  I don't know if
+repository, which is of course horribly unergonomic.  I don't know if
 the above can be improved (it doesn't handle branches for example),
 but it was good enough for simple things.
