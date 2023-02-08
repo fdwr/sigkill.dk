@@ -70,6 +70,9 @@ used in practice.  Usually this is by some other mechanism that
     widespead style.  However, it is still used in other constructs,
     such as `for` loops.
 
+  * [Swift](https://www.swift.org/) treats semicolons as separators,
+    permitting but discouraging multiple statements on a single line.
+
   * [Haskell](https://www.haskell.org/) avoids semicolons *only* when
     using exclusively [indentation-based
     layout](https://en.wikibooks.org/wiki/Haskell/Indentation), which
